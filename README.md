@@ -11,8 +11,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=Caoxl-C)
-
-![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=Caoxl&repo=homebridge-switchbot-for-mac)
-
-![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=Caoxl-C&layout=compact)
+![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=Caoxl-C) ![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=Caoxl-C&layout=compact)
