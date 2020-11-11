@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-**Caoxl-C/Caoxl-C** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -13,4 +11,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-[![Focus Repo](https://github-readme-stats.vercel.app/api/pin/?username=YituHealthcare&repo=Arc&show_owner=true)](https://github.com/YituHealthcare/Arc)
+![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=Caoxl-C)
+
+![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=Caoxl&repo=homebridge-switchbot-for-mac)
+
+![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=Caoxl-C&layout=compact)
